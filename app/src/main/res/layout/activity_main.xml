@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/common"
+    >
+
+    <fragment
+        android:id="@+id/notes"
+        android:name="com.example.makingnotes.ListOfNoteBlankFragment"
+        style="@style/common"
+        />
+</FrameLayout>
